@@ -65,4 +65,5 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 
 # **Projects**
--Detecting Malicious DNS/ICMP Traffic using Wireshark
+- <a href= "https://github.com/czabatta/Wireshark-Lab">Wireshark-Lab</a>  -Hunting Clear Text Credentials
+- <a href= "https://github.com/czabatta/Wireshark-Lab">Wireshark-Lab</a>  -Detecting Malicious DNS/ICMP Traffic using Wireshark
