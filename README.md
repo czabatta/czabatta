@@ -18,13 +18,30 @@ ________________________________________________________________________________
 ### Network
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor+white" />
+
+  <img src="https://img.shields.io/badge/-Zeek-FF0000?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Siem
+<div>
+  <img src="https://img.shields.io/badge/-Splunk-1679A7?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
+ <img src="https://img.shields.io/badge/-Wazuh-00FF00?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
 
 ### Endpoint
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor+white" />
+
+  <img src="https://img.shields.io/badge/-Zeek-FF0000?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
 ### Cloud
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor+white" />
+
+  <img src="https://img.shields.io/badge/-Zeek-FF0000?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
 
 ________________________________________________________________________________________________________________________
