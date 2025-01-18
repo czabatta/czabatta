@@ -67,3 +67,4 @@ ________________________________________________________________________________
 # **Projects**
 - <a href= "https://github.com/czabatta/Wireshark-Lab">Wireshark-Lab</a>  -Hunting Clear Text Credentials
 - <a href= "https://github.com/czabatta/Wireshark-Lab">Wireshark-Lab</a>  -Detecting Malicious DNS/ICMP Traffic using Wireshark
+- <a href= "https://github.com/czabatta/Wazuh-Lab">Wazuh-Lab</a>   -Malware detection using Wazuh and VirusTotal
