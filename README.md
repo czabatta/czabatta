@@ -7,11 +7,11 @@ ________________________________________________________________________________
 
 | **Skill**                                                 | **Associated Project** |
 | --------------------------------------------------------- | -------------------------------------------------------- |
-|  Test Skill                                         |      Test Test mmmmmmmmmmmmmmmmmmmmmmmm                              |
-|  Test Test mmmmmmmmmmmmmmmmmmm                                          |      Test Test mmmmmmmmmmmmmmmmmmmmmmmm                              |
-|  Test Test mmmmmmmmmmmmmmmmmmm                                          |      Test Test mmmmmmmmmmmmmmmmmmmmmmmm                              |
-|  Test Test mmmmmmmmmmmmmmmmmmm                                          |      Test Test mmmmmmmmmmmmmmmmmmmmmmmm                              |
-|  Test Test mmmmmmmmmmmmmmmmmmm                                          |      Test Test mmmmmmmmmmmmmmmmmmmmmmmm                              |
+|  Security Monitoring                                        |    https://github.com/czabatta/Wireshark-Lab                                |
+|  Threat Detection                                           |    https://github.com/czabatta/Wireshark-Lab                                |
+|  Endpoint Security                                          |    https://github.com/czabatta/Wazuh-Lab                                |
+|  Malware Analysis/Threat Intelligence                       |    https://github.com/czabatta/Wazuh-Lab                                |
+|  Network Protocol Analysis                                  |    https://github.com/czabatta/Wireshark-Lab                                |
 
 _________________________________________________________________________________________________________________________
 
@@ -28,6 +28,8 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/-Nmap-FFA500?&style=for-the-badge&logo=Nmap&logoColor=white" />
 
   <img src="https://img.shields.io/badge/-Snort-0000FF?&style=for-the-badge&logo=Snort&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Nessus-008080?&style=for-the-badge&logo=Nessus&logoColor=white" />
 </div>
 
 ### Siem
