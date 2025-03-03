@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 | **Skill**                                                 | **Associated Project** |
 | --------------------------------------------------------- | -------------------------------------------------------- |
-|  SOC Simulator                                              |    https://github.com/czabatta/SOC-simulator/tree/main  |
+|  SOC Simulator                                              |    https://github.com/czabatta/SOC-simulator            |
 |  Security Monitoring                                        |    https://github.com/czabatta/Wireshark-Lab            |
 |  Threat Detection                                           |    https://github.com/czabatta/Wireshark-Lab            |
 |  Endpoint Security                                          |    https://github.com/czabatta/Wazuh-Lab                |
@@ -68,7 +68,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 
 # **Projects**
-- <a href=   -Triaging Phishing Alerts from the SOC Dashboard
+- <a href= "https://github.com/czabatta/SOC-simulator">SOC-simulator</a> -Triaging Phishing Alerts from the SOC Dashboard
 - <a href= "https://github.com/czabatta/Wireshark-Lab">Wireshark-Lab</a>  -Hunting Clear Text Credentials
 - <a href= "https://github.com/czabatta/Wireshark-Lab">Wireshark-Lab</a>  -Detecting Malicious DNS/ICMP Traffic using Wireshark
 - <a href= "https://github.com/czabatta/Wazuh-Lab">Wazuh-Lab</a>   -Malware detection using Wazuh and VirusTotal
