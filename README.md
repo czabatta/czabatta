@@ -7,11 +7,12 @@ ________________________________________________________________________________
 
 | **Skill**                                                 | **Associated Project** |
 | --------------------------------------------------------- | -------------------------------------------------------- |
-|  Security Monitoring                                        |    https://github.com/czabatta/Wireshark-Lab                                |
-|  Threat Detection                                           |    https://github.com/czabatta/Wireshark-Lab                                |
-|  Endpoint Security                                          |    https://github.com/czabatta/Wazuh-Lab                                |
-|  Malware Analysis/Threat Intelligence                       |    https://github.com/czabatta/Wazuh-Lab                                |
-|  Network Protocol Analysis                                  |    https://github.com/czabatta/Wireshark-Lab                                |
+|  SOC Simulator                                              |    https://github.com/czabatta/SOC-simulator/tree/main  |
+|  Security Monitoring                                        |    https://github.com/czabatta/Wireshark-Lab            |
+|  Threat Detection                                           |    https://github.com/czabatta/Wireshark-Lab            |
+|  Endpoint Security                                          |    https://github.com/czabatta/Wazuh-Lab                |
+|  Malware Analysis/Threat Intelligence                       |    https://github.com/czabatta/Wazuh-Lab                |
+|  Network Protocol Analysis                                  |    https://github.com/czabatta/Wireshark-Lab            |
 
 _________________________________________________________________________________________________________________________
 
@@ -67,6 +68,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 
 # **Projects**
+- <a href=   -Triaging Phishing Alerts from the SOC Dashboard
 - <a href= "https://github.com/czabatta/Wireshark-Lab">Wireshark-Lab</a>  -Hunting Clear Text Credentials
 - <a href= "https://github.com/czabatta/Wireshark-Lab">Wireshark-Lab</a>  -Detecting Malicious DNS/ICMP Traffic using Wireshark
 - <a href= "https://github.com/czabatta/Wazuh-Lab">Wazuh-Lab</a>   -Malware detection using Wazuh and VirusTotal
