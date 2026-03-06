@@ -11,8 +11,8 @@ what I built, what I found, and what it means.
 ## Certifications
 - CompTIA Security+ (2023)
 - TryHackMe SOC Level 1 (2026)
-- CySA+ — In Progress
-- SAL1 — In Progress
+- CySA+ - In Progress
+- SAL1 - In Progress
 
 ## Core Skills
 `Splunk` `Wazuh` `MITRE ATT&CK` `Incident Response` `Alert Triage`
@@ -22,8 +22,8 @@ what I built, what I found, and what it means.
 ## Projects
 | Repository | Description |
 |---|---|
-| [SOC Simulator](https://github.com/czabatta/SOC-simulator) | L1 alert triage in a live SOC environment — phishing kill chain including PowerShell reverse shell discovery |
-| [Wireshark Lab](https://github.com/czabatta/Wireshark-Lab) | Network forensics — cleartext credential extraction, ICMP tunneling, DNS exfiltration detection |
+| [SOC Simulator](https://github.com/czabatta/SOC-simulator) | L1 alert triage in a live SOC environment - phishing kill chain including PowerShell reverse shell discovery |
+| [Wireshark Lab](https://github.com/czabatta/Wireshark-Lab) | Network forensics - cleartext credential extraction, ICMP tunneling, DNS exfiltration detection |
 | [Wazuh Lab](https://github.com/czabatta/Wazuh-Lab) | Real-time malware detection using Wazuh FIM and VirusTotal API integration |
 
 ---
