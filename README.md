@@ -17,7 +17,7 @@ what I built, what I found, and what it means.
 ## Core Skills
 `Splunk` `Wazuh` `MITRE ATT&CK` `Incident Response` `Alert Triage`
 `Wireshark` `Network Analysis` `Threat Detection` `pfSense` `Python`
-`Windows Administration` `Linux` `VirusTotal` `Malware Analysis`
+`Windows Administration` `Linux` `VirusTotal` `Malware Analysis` `Nmap` `Nessus`
 
 ## Projects
 | Repository | Description |
