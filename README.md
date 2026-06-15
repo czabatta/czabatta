@@ -20,12 +20,14 @@ what I built, what I found, and what it means.
 `Windows Administration` `Linux` `VirusTotal` `Malware Analysis` `Nmap` `Nessus`
 
 ## Projects
+
 | Repository | Description |
-|---|---|
+| ---------- | ----------- |
 | [SOC Simulator](https://github.com/czabatta/SOC-simulator) | L1 alert triage in a live SOC environment — phishing kill chain including PowerShell reverse shell discovery |
 | [Wireshark Lab](https://github.com/czabatta/Wireshark-Lab) | Network forensics — cleartext credential extraction, ICMP tunneling, DNS exfiltration detection |
 | [Wazuh Lab](https://github.com/czabatta/Wazuh-Lab) | Real-time malware detection using Wazuh FIM and VirusTotal API integration |
 | [Linux Intrusion Detection Lab](https://github.com/czabatta/Linux-Intrusion-Detection-Lab) | Full attack chain investigation using auditd — SSH brute force, cryptominer deployment, lateral movement |
+| [THM Boogeyman 3](https://github.com/czabatta/THM-Boogeyman3) | Full kill chain analysis — HTA lure, DLL execution, credential dumping, DCSync, ransomware staging |
 
 ---
 
