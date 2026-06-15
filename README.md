@@ -28,7 +28,7 @@ what I built, what I found, and what it means.
 | [Wazuh Lab](https://github.com/czabatta/Wazuh-Lab) | Real-time malware detection using Wazuh FIM and VirusTotal API integration |
 | [Linux Intrusion Detection Lab](https://github.com/czabatta/Linux-Intrusion-Detection-Lab) | Full attack chain investigation using auditd — SSH brute force, cryptominer deployment, lateral movement |
 | [THM Boogeyman 3](https://github.com/czabatta/THM-Boogeyman3) | Full kill chain analysis — HTA lure, DLL execution, credential dumping, DCSync, ransomware staging |
-
+| [THM Tempest](https://github.com/czabatta/THM-Tempest) | Full IR investigation — CVE-2022-30190 (Follina), Nim C2, Chisel tunneling, PrintSpoofer privesc, backdoor accounts |
 ---
 
 📍 Tampa Bay, FL — Open to SOC Analyst and IT Support roles, remote or local  
